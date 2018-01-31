@@ -11,6 +11,6 @@
     <text class="user-motto">{{motto}}</text>
     <button bindtap='clickMe'>点我</button>
     <view>{{msg}}</view>
-    <map bindmarkertap='markertap' longitude="userLatitude" latitude="userLongitude"></map>
+    <map bindmarkertap='markertap' longitude="114.31667" latitude="30.51667"></map>
   </view>
 </view>
